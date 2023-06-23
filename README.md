@@ -7,7 +7,16 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 this is the E-commerce application or nike shoes 👟 , static
 
-![Screenshot_1668631453](https://user-images.githubusercontent.com/105225210/202462723-132dca43-2c8f-40cd-9356-8b16b2671fd4.png)
-![Screenshot_1668692399](https://user-images.githubusercontent.com/105225210/202462769-7dcc7c5a-7a9f-45d2-b2a2-7118f28cb633.png)
-![Screenshot_1668692402](https://user-images.githubusercontent.com/105225210/202462782-5bb249eb-f742-495f-9e34-3b68602f2c6e.png)
-![Screenshot_1668692407](https://user-images.githubusercontent.com/105225210/202462789-750a1d36-cb3a-41e5-88ee-aa29e841a098.png)
+<img src="https://github.com/gursahib204/News-Application/assets/105225210/8d6dc1c4-88d4-447a-969e-ec202164cc09" 
+     width="350" 
+     height="500" />
+     <img src="https://github.com/gursahib204/News-Application/assets/105225210/1fe379e0-91ab-4c36-9252-3cdc19279798" 
+     width="350" 
+     height="500" />
+     <img src="https://github.com/gursahib204/News-Application/assets/105225210/8244bf05-9e6b-4c14-8599-c8a1f74ff9e6" 
+     width="350" 
+     height="500" />
+     <img src="https://github.com/gursahib204/News-Application/assets/105225210/3577c2a6-7dea-4d7c-a540-7069eeec0f18" 
+     width="350" 
+     height="500" />
+     
